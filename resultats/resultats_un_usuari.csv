@@ -1,0 +1,4 @@
+model,entropy,entropy_norm,concentracio,gini,tema_dominant,esport,politica,humor,tecnologia,ciencia,cultura,salut,economia,viatges,moda
+Engagement,0.1414,0.0426,0.98,0.896,esport,0.98,0.02,0,0,0,0,0,0,0,0
+Ètic,3.0606,0.9213,0.22,0.284,viatges,0.12,0.1,0.1,0,0.1,0.14,0.1,0.06,0.22,0.06
+Aleatori,3.1009,0.9335,0.22,0.3,humor,0.1,0.16,0.22,0.02,0.12,0.06,0.1,0.04,0.08,0.1
