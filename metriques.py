@@ -38,7 +38,7 @@ def calcular_entropy(distribucio):
     Interpretació:
       - entropy = 0          → un sol tema (concentració total)
       - entropy = log2(n)    → distribució completament uniforme
-      - Per 4 temes, màxim = log2(4) = 2.0 bits
+      - Per 10 temes, màxim = log2(10) = 2.0 bits
 
     Args:
         distribucio (dict): {tema: proporció}
