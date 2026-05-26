@@ -3,7 +3,7 @@ contingut.py — Generació del catàleg de vídeos simulats.
  
 Cada vídeo té:
   - id      : identificador únic
-  - tema    : categoria temàtica (esport, política, humor, tecnologia)
+  - tema    : categoria temàtica (esport, política, humor, tecnologia, ciència, cultura, salut, economia, viatges i moda)
   - emocio  : nivell d'impacte emocional [0, 1]
   - qualitat: qualitat intrínseca del contingut [0, 1]
  
